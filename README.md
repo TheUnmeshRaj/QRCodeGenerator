@@ -2,7 +2,7 @@
 
 ## Description
 
-Brief description of your project goes here.
+This is going to be used for inventory management and assest tracking with smart contracts.
 
 ## Features
 
@@ -16,7 +16,7 @@ Brief description of your project goes here.
 
 ## Usage
 
-Instructions on how to use your project go here.
+Still figuring out.
 
 ## Contributing
 
